@@ -2,7 +2,7 @@
 - 📍&nbsp; Based in the Miami, Florida
 - 📤&nbsp; Contact me at [srest031@fiu.edu](mailto:srest031@fiu.edu)
 - ⏳&nbsp; I am committed to maintaining a high level of knowledge and proficiency in the constantly evolving field of blockchain technology
-- 🎯&nbsp; Currently finishing my last semester at Flordia Internation University, will be graduating in April with Bachelor in computer science 
+- 🎓&nbsp; Currently finishing my last semester at Flordia Internation University, will be graduating in April with Bachelor in computer science 
 - 🤝&nbsp; I am willing and interested in collaborating with others on the development of Solidity Smart Contracts
 
 - I'm a full-stack blockchain/Web 3.0 developer specializing in React front ends and Solidity/Hardhat back ends
@@ -23,3 +23,6 @@
 ## &#x1f4c8; My Github Stats
 ![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=srestrepo221&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=monokai)
 
+- 💿&nbsp; One of my hobbies is Djing and listening to various kinds of music
+- 📖&nbsp; I love to read books, meditate and journal
+- 🔨&nbsp; I also enjoy going to the gym frequently and training others
