@@ -21,6 +21,7 @@
 <a href="https://www.javascript.com/"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50" style="padding: 2px" /> </a> 
 <a href="https://reactjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React Logo" width="50" height="50" /></a> <a href="https://docs.soliditylang.org/en/v0.8.17/"><img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" alt="Solidity Logo" width="50" height="50"/></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="Ethers" /></a>
 <a href="https://ethereum.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/ethereum-eth.svg" alt="Ethereum" width="50" height="50"/></a> 
 <a href="https://metamask.io/"><img src="https://github.com/MetaMask/brand-resources/raw/master/SVG/metamask-fox.svg" alt="Metamask" widt="50" height="50"/> 
 <a href="https://ipfs.tech/"><img src="https://docs.ipfs.tech/images/ipfs-logo.svg" alt="IPFS Logo" width="50" height="50" /></a>
