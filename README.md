@@ -7,7 +7,7 @@
 
 ## I am a Full Stack Blockchain Developer
 
-- 📍&nbsp; Based in the Miami, Florida
+- 📍&nbsp; Based in Miami, Florida
 - 📤&nbsp; Contact me at [srest031@fiu.edu](mailto:srest031@fiu.edu)
 - ⏳&nbsp; I am committed to maintaining a high level of knowledge and proficiency in the constantly evolving field of blockchain technology
 - 🎓&nbsp; Currently finishing my last semester at Flordia Internation University, will be graduating in April with Bachelor in computer science 
