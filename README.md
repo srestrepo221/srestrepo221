@@ -10,7 +10,7 @@
 - 📍&nbsp; Based in Miami, Florida
 - 📤&nbsp; Contact me at [srest031@fiu.edu](mailto:srest031@fiu.edu)
 - ⏳&nbsp; I am committed to maintaining a high level of knowledge and proficiency in the constantly evolving field of blockchain technology
-- 🎓&nbsp; Currently finishing my last semester at Florida International University & will be graduating in April with a Bachelor in Computer Science 
+- 🎓&nbsp; Graduated from Florida International University with a Bachelor in Computer Science April 2023
 - 🤝&nbsp; I am willing and interested in collaborating with others on the development of Solidity Smart Contracts
 
 - I'm a full-stack blockchain/Web 3.0 developer specializing in React front ends and Solidity/Hardhat back ends
